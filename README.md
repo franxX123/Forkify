@@ -5,5 +5,5 @@ York Meals is a food recipe platform for individuals with a intense craving to t
 
 
 # Get Started
-1.) Once you have downloaded the Forkify folder, install the dependencies by typing in the terminal: npm install
-3.) To start the application run type the command: npm start
+1.) Install the dependencies using the following command: npm install
+3.) To start the application do: npm start
