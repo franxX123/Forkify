@@ -6,4 +6,5 @@ York Meals is a food recipe platform for individuals with a intense craving to t
 
 # Get Started
 1.) Install the dependencies using the following command: npm install
-3.) To start the application do: npm start
+
+2.) To start the application do: npm start
